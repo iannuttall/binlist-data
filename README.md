@@ -10,7 +10,7 @@ You are free to use this list for any purpose, including private or commercial u
 
 **This data is not an official IIN register.** I scraped and compiled this data to help with learning Python, and although it is a fairly comprehensive and accurate BIN list, it's not perfect. Use at your own risk!
 
-If you do use this list in your own projects, please [link to the site](https://binchecker.io/) if you can. I'd like to get some contributions to improve the list over time and the more people who see the site, the more contributors we might get.
+If you do use this list in your own projects, please [link to the site](https://ian.is/binlist/) if you can. I'd like to get some contributions to improve the list over time and the more people who see the site, the more contributors we might get.
 
 ## Contributing
 
